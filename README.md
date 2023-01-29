@@ -34,7 +34,7 @@ With UniqMedia you can quickly and efficiently change your photos so that no aut
 
 Using UniqMedia is extremely easy:
 
-1. Download the compiled build from the [release]() page.
+1. Download the compiled build from the [release](https://github.com/p4rab3llum/uniq-media/releases) page.
 2. Unpack the archive in any convenient place for you.
 3. Move the photos that you want to be unique to the "Images" folder.
 4. Launch the program.
