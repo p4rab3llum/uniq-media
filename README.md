@@ -1,6 +1,6 @@
 # UniqMedia
 
-Image & video uniqueization tool.
+Open-source image & video uniqueization tool.
 
 <p align="center">
   <a href="https://github.com/p4rab3llum">
@@ -65,3 +65,5 @@ Mail: [abuse.di5tr@proton.me](mailto:abuse.di5tr@proton.me)
 
 <!-- UPDATES -->
 ## Updates
+
+**Video uniqueization coming soon!**
