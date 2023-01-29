@@ -1,0 +1,8 @@
+C:\Users\di5tr\OneDrive\Documents\GitHub\UniqMedia\UniqMedia\bin\Debug\UniqMedia.exe.config
+C:\Users\di5tr\OneDrive\Documents\GitHub\UniqMedia\UniqMedia\bin\Debug\UniqMedia.exe
+C:\Users\di5tr\OneDrive\Documents\GitHub\UniqMedia\UniqMedia\bin\Debug\UniqMedia.pdb
+C:\Users\di5tr\OneDrive\Documents\GitHub\UniqMedia\UniqMedia\obj\Debug\UniqMedia.csproj.AssemblyReference.cache
+C:\Users\di5tr\OneDrive\Documents\GitHub\UniqMedia\UniqMedia\obj\Debug\UniqMedia.csproj.SuggestedBindingRedirects.cache
+C:\Users\di5tr\OneDrive\Documents\GitHub\UniqMedia\UniqMedia\obj\Debug\UniqMedia.csproj.CoreCompileInputs.cache
+C:\Users\di5tr\OneDrive\Documents\GitHub\UniqMedia\UniqMedia\obj\Debug\UniqMedia.exe
+C:\Users\di5tr\OneDrive\Documents\GitHub\UniqMedia\UniqMedia\obj\Debug\UniqMedia.pdb
