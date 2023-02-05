@@ -50,7 +50,7 @@ If you found a bug, please describe how and why your fix is needed.
 <!-- LICENSING -->
 ## Licensing
 
-All course materials are under MIT license.
+This repository is under MIT license.
 
 <!-- CONTACT -->
 ## Contact
